@@ -8,6 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+I am a part-time instructor in the [Department of Information Systems and Computer Science](https://www.facebook.com/admudiscs/) (DISCS) of the Ateneo de Manila University and a full-time researcher for the [Ateneo Laboratory for the Learning Sciences](https://alls.ateneo.edu/) (ALLS) headed by [Dr. Maria Mercedes T. Rodrigo](https://scholar.google.com/citations?user=meAacBIAAAAJ&hl=en)
+
+His current research revolves around investigating how Embodied Cognition and Gamification concepts may be leveraged for learning and instruction. Neithan also does work on Bluetooth low-energy beacons and Augmented-Reality and how they can be applied to teaching.
+
+part-time instructor in the Department of Information Systems and Computer Science of the Ateneo de Manila University and a full-time researcher in the Ateneo Laboratory for the Learning Sciences. My research practice is centered on Embodied Cognition and Gamification. I also do work on alternative location sensing using Bluetooth Low-Energy Beacons.
+
+He loves music, calligraphy and e-sports.
+
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
