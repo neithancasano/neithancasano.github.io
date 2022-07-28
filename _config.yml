@@ -83,37 +83,37 @@ author:
   name             : "Jonathan Casano, MS"
   avatar           : "DSC05141.jpg"
   bio              : "Full-time researcher for ALLS\n Part-time instructor for ADMU-DISCS"
-  location         : "Location"
+  location         : "Quezon City, Philippines"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "http://bit.ly/gs_neithan"
+  email            : jcasano@ateneo.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : www.neithan.rocks
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : https://www.facebook.com/neithan.casano/
   foursquare       :
-  github           : "academicpages"
+  github           : "neithancasano"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8443-0857"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : https://www.youtube.com/c/neithan
   wikipedia        :
 
 
