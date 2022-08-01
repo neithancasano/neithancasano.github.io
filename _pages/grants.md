@@ -1,8 +1,10 @@
 ---
+
+layout: archive
 title: "Grants"
-excerpt: "My grants"
+permalink: /grants/
 author_profile: true
 
 ---
 
-My Grants test 3
+My Grants test 4
