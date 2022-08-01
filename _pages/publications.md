@@ -10,7 +10,6 @@ All papers are publicly available at the [Google Scholar](https://scholar.google
 ---
 
 ## Journal Papers
-
 * Casano, J. D., Agapito, J. L., Moreno, A. S., & Rodrigo, M. M. T. (2022). INF-Based Tracking and Characterization of Museum Visitor Paths and Behaviors Using Bluetooth Low Energy Beacons. ACM Journal on Computing and Cultural Heritage (JOCCH), 15(2), 1-22.
 ---
 
