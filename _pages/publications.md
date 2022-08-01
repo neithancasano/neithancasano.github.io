@@ -4,8 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+All papers are publicly available at the [Google Scholar](https://scholar.google.com/citations?user=5w4I9VMAAAAJ](https://scholar.google.com/citations?user=79YLkoYAAAAJ&hl=en) page.
 
-All papers are publicly avaiable at my [Google Scholar]([https://scholar.google.com/citations?user=5w4I9VMAAAAJ](https://scholar.google.com/citations?user=79YLkoYAAAAJ&hl=en)) page.
 ---
 
 ## Journal Papers
