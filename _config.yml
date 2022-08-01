@@ -86,7 +86,7 @@ author:
   location         : "Quezon City, Philippines"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://bit.ly/gs_neithan"
+  googlescholar    : "https://scholar.google.com/citations?user=79YLkoYAAAAJ&hl=en"
   email            : jcasano@ateneo.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : https://n3ith4n.wordpress.com/
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : https://www.facebook.com/neithan.casano/
+  facebook         : "neithan.casano"
   foursquare       :
   github           : "neithancasano"
   google_plus      :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : https://www.youtube.com/c/neithan
+  youtube          : "chordsandcode"
   wikipedia        :
 
 
