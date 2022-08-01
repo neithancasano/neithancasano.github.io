@@ -5,11 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
-HELLO?
+All papers are publicly avaiable at my [Google Scholar]([https://scholar.google.com/citations?user=5w4I9VMAAAAJ](https://scholar.google.com/citations?user=79YLkoYAAAAJ&hl=en)) page.
+---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Journal Papers
+
+* __Casano, J. D.__, Agapito, J. L., Moreno, A. S., & Rodrigo, M. M. T. (2022). INF-Based Tracking and Characterization of Museum Visitor Paths and Behaviors Using Bluetooth Low Energy Beacons. ACM Journal on Computing and Cultural Heritage (JOCCH), 15(2), 1-22.
+---
+
+## Stringently-reviewed Full Papers (Scopus-Indexed)
+
+---
+
+## Peer-Reviewed Short Papers and Posters (Scopus-Indexed Proceedings)
+
+---
+
+## Conference Posters in Scopus-Indexed Proceedings 
+
+---
+
+## Peer-Reviewed Workshops/Presentations
+
+---
 
 {% include base_path %}
 
