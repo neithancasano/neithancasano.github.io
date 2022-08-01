@@ -85,11 +85,11 @@ author:
   bio              : "Full-time researcher for ALLS\n Part-time instructor for ADMU-DISCS"
   location         : "Quezon City, Philippines"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://bit.ly/gs_neithan"
   email            : jcasano@ateneo.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : www.neithan.rocks
+  uri              : https://n3ith4n.wordpress.com/
   bitbucket        :
   codepen          :
   dribbble         :
