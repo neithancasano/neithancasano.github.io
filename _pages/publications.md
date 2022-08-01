@@ -16,7 +16,7 @@ All papers are publicly available at the [Google Scholar](https://scholar.google
 ---
 
 ## Stringently-reviewed Full Papers (Scopus-Indexed)
-_average acceptance rate (˜22% - 28%)
+_average acceptance rate (˜22% - 28%)_
 *       Arroyo, I., Micciollo, M., __Casano, J.__, Ottmar, E., Hulse, T., & Rodrigo, M. M. (2017, October). Wearable learning: multiplayer embodied games for math. _In Proceedings of the Annual Symposium on Computer-Human Interaction in Play_ (pp. 205-216). [📝](https://dl.acm.org/doi/pdf/10.1145/3116595.3116637)
 *       Agapito, J. L., Martinez, J. C., & __Casano, J. D.__ (2014, October). Xiphias: A competitive classroom control system to facilitate the gamification of academic evaluation of novice C++ programmers. In Proceedings of International Symposium on Computing for Education, ISCE (Vol. 14, pp. 9-15). [Won Best Paper Award](https://www.adnu.edu.ph/ccs/2014/10/26/dcs-faculty-won-isce-2014-best-paper-award/) [📝](https://www.researchgate.net/profile/Gerry-Paul-Genove/publication/275153458_Gamifying_Moodle_Integrating_Game_Elements_Into_an_Open-Source_Learning_Management_System/links/5efb253292851c52d609e410/Gamifying-Moodle-Integrating-Game-Elements-Into-an-Open-Source-Learning-Management-System.pdf#page=9)
 *       __Casano, J. D.__, Tee, H., Agapito, J. L., Arroyo, I., Rodrigo, M., & Mercedes, T. (2019). Evaluation of a Re-designed Framework for Embodied Cognition Math Games. In VR, Simulations and Serious Games for Education (pp. 27-43). Springer, Singapore. [📝](https://link.springer.com/chapter/10.1007/978-981-13-2844-2_4)
