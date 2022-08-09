@@ -12,7 +12,7 @@ author_profile: true
 
 ### Rejected fellowship application _Aug.9.2022_
 ![Rejection](/images/wor9.png)
-### Funder doubted my capacity to finish a project _Aug.9.2022_
+### Funder doubted my capacity to finish a project _Jul.7.2021_
 ![Rejection](/images/wor10.png)  
 💡I delivered more than what was promised and finished the project on time. 
 ### Rejected collaboration opportunity _May.4.2019_
