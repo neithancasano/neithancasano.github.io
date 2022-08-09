@@ -13,29 +13,29 @@ author_profile: true
 ### Rejected fellowship application _Aug.9.2022_
 ![Rejection](/images/wor9.png)
 ### Funder doubted my capacity to finish a project _Aug.9.2022_
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor10.png)  
-💡I delivered more than what was promised and finished the project on time
+![Rejection](/images/wor10.png)  
+💡I delivered more than what was promised and finished the project on time. 
 ### Rejected collaboration opportunity _May.4.2019_
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor7.png)
+![Rejection](/images/wor7.png)
 ### Rejected research proposal _Aug.31.2018_
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor6.png)
+![Rejection](/images/wor6.png)
 ### Rejected project proposal _July.16.2018_
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor5.png)
+![Rejection](/images/wor5.png)
 ### Infeasible project proposal designs _Jun.22.2018_
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor4.png)
+![Rejection](/images/wor4.png)
 ### Rejected application for writership position _Mar.31.2018_
 ### Initial draft of artwork for a children's book _Jun.13.2018_
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor8.1.webp)
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor8.2.webp)
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor8.3.webp)
+![Rejection](/images/wor8.1.webp)
+![Rejection](/images/wor8.2.webp)
+![Rejection](/images/wor8.3.webp)
 ### Uncompensated work _Mar.31.2018_
 ### Rejected designs for prints and ads _Mar.21.2018_
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor3.1.webp)
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor3.2.webp)
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor3.3.webp)
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor3.4.webp)
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor3.5.webp)
+![Rejection](/images/wor3.1.webp)
+![Rejection](/images/wor3.2.webp)
+![Rejection](/images/wor3.3.webp)
+![Rejection](/images/wor3.4.webp)
+![Rejection](/images/wor3.5.webp)
 ### Rejected funding proposal _Mar.1.2018_
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor2.png)
+![Rejection](/images/wor2.png)
 ### Rejected sponsorship request _Feb.20.2018_
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor1.png)
+![Rejection](/images/wor1.png)
