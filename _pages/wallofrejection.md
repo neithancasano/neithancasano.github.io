@@ -11,7 +11,7 @@ author_profile: true
 > You may find people using this practice to stay on the path [here](https://www.instagram.com/wallofrejection_/).
 
 ### Rejected fellowship application _Aug.9.2022_
-![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor9.png)
+![Rejection](/images/wor9.png)
 ### Funder doubted my capacity to finish a project _Aug.9.2022_
 ![Rejection](https://github.com/neithancasano/neithancasano.github.io/blob/master/images/wor10.png)  
 💡I delivered more than what was promised and finished the project on time
