@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 
-> This space holds all my rejected work. I keep them to remind myself that rejection is a the cost you pay for taking courage; Courage to invest time on a thing I really want to work; Courage to create despite criticism; Courage to express myself as accurately as I can at the cost of being ridiculed; Courage to do work as best as I can manage. [Anais Nin](https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin) said _life shrinks or expands in proportion to one's courage_. I wish for my life to continuously expand. 
+> This space holds all my rejected work. I keep them as reminders that rejection is the cost we pay trying to move our lives forward; Courage to gamble time and energy on a project we really want to work; Courage to create and build despite criticism or ridicule; Courage to express accurately; Courage to put in work even without the guarantee of reward. [Anais Nin](https://en.wikipedia.org/wiki/Ana%C3%AFs_Nin) said _life shrinks or expands in proportion to one's courage_. I wish for my life to expand. 
 > You may find people using this practice to stay on the path [here](https://www.instagram.com/wallofrejection_/).
 
 ### Rejected fellowship application _Aug.9.2022_
