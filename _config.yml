@@ -79,7 +79,7 @@ analytics:
 
 
 # Site Author
-author:
+  author           : "Neithan Casano"
   name             : "Jonathan Casano, MS"
   avatar           : "neithanpng.png"
   bio              : "Full-time researcher for ALLS\n Part-time instructor for ADMU-DISCS"
