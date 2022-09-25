@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
-name                     : &name "Neithan Casano"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://neithancasano.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 
 
 # Site Author
-  author           : "Neithan Casano"
+  author           : 
   name             : "Jonathan Casano, MS"
   avatar           : "neithanpng.png"
   bio              : "Full-time researcher for ALLS\n Part-time instructor for ADMU-DISCS"
