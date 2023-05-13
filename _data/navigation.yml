@@ -12,8 +12,8 @@ main:
   - title: "Teaching and Mentorship"
     url: /teaching/    
     
-  - title: "Wall of Rejection"
-    url: /wallofrejection/   
+  # - title: "Wall of Rejection"
+  #  url: /wallofrejection/   
     
   # - title: "Portfolio"
   #  url: /portfolio/
