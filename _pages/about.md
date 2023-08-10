@@ -8,9 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a part-time instructor in the [Department of Information Systems and Computer Science](https://www.facebook.com/admudiscs/) (DISCS) of the Ateneo de Manila University and a full-time researcher for the [Ateneo Laboratory for the Learning Sciences](https://alls.ateneo.edu/) (ALLS) headed by [Dr. Maria Mercedes T. Rodrigo](https://scholar.google.com/citations?user=meAacBIAAAAJ&hl=en)
+<h4>Current Engagements</h4>
 
-I am currently doing data analytics work for the [WHIMC Project](https://whimcproject.web.illinois.edu/) through the partnership of ALLS with [Dr. Chad Lane](https://education.illinois.edu/faculty/h-chad-lane) and [Dr. Jeff Ginger](https://ischool.illinois.edu/people/jeff-ginger) of the University of Illinois Urbana-Champaign.  
+<h5><font color='528AAE'>Founder</font></h5>
+Pixel Zero Digital Solutions
+[pixelzero.solutions](www.pixelzero.solutions)
+<h5><font color='528AAE'>Programmer</font></h5>
+Penn Center for Learning Analytics
+[learninganalytics.upenn.edu](https://learninganalytics.upenn.edu/index.html)
+<h5><font color='528AAE'>PT Instructor</font></h5>
+Ateneo de Manila Department of Information Systems and Computer Science
+Ateneo de Naga Department of Computer Science (Graduate School)
+<h5><font color='528AAE'>Member</font></h5>
+Ateneo Laboratory for the Learning Sciences
+[alls.ateneo.edu](https://alls.ateneo.edu/)
+
+<h4>Vita</h4>
+
+I am currently building Pixel Zero with my wife Jen, and helping out as programmer for the Penn Center for Learning Analytics under project Ripple - [RPPL
+Research Infrastructure for Professional Development](https://annenberg.brown.edu/rppl/about).
+
+I am a part-time instructor in the [Department of Information Systems and Computer Science](https://www.facebook.com/admudiscs/) (DISCS) of the Ateneo de Manila University and have done research under the [Ateneo Laboratory for the Learning Sciences](https://alls.ateneo.edu/) (ALLS) headed by [Dr. Maria Mercedes T. Rodrigo](https://scholar.google.com/citations?user=meAacBIAAAAJ&hl=en)
+
+I did data analytics work for the [WHIMC Project](https://whimcproject.web.illinois.edu/) through the partnership of ALLS with [Dr. Chad Lane](https://education.illinois.edu/faculty/h-chad-lane) and [Dr. Jeff Ginger](https://ischool.illinois.edu/people/jeff-ginger) of the University of Illinois Urbana-Champaign.  
 
 Previously, I worked with [Dr. Ivon Arroyo](https://www.umass.edu/education/people/ivon-arroyo) of the University of Massachusetts Amherst on the migration and testing of their [Wearable Learning Technologies](https://stemforall2017.videohall.com/presentations/1027) in the Philippine context. Through the support of [Dr. Xiangen Hu](https://www.memphis.edu/psychology/people/faculty/hu.php) I was also able to visit the University of Memphis to share the [mobile applications created by ALLS](https://play.google.com/store/apps/developer?id=Ateneo+Laboratory+for+the+Learning+Sciences) to their [Advanced Learning Theories, Technologies, Applications & Impacts](https://home.x-in-y.com/)  (ALTTAI) community. Most recently, while working on a grant received from University Research Council of ADMU, we were able to work with [Samsung R&D Institute Philippines](https://research.samsung.com/srph) (SRPH) towards the development of [a gamification system for higher education](https://xiphiasgamification.gnomio.com/), particularly geared towards computer programming classes.
 
