@@ -8,25 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-<h4>Current Engagements</h4>
-
-<h5><font color='528AAE'>Founder</font></h5>
-Pixel Zero Digital Solutions
-[pixelzero.solutions](www.pixelzero.solutions)
-<h5><font color='528AAE'>Programmer</font></h5>
-Penn Center for Learning Analytics
-[learninganalytics.upenn.edu](https://learninganalytics.upenn.edu/index.html)
-<h5><font color='528AAE'>PT Instructor</font></h5>
-Ateneo de Manila Department of Information Systems and Computer Science
-Ateneo de Naga Department of Computer Science (Graduate School)
-<h5><font color='528AAE'>Member</font></h5>
-Ateneo Laboratory for the Learning Sciences
-[alls.ateneo.edu](https://alls.ateneo.edu/)
-
-<h4>Vita</h4>
-
-I am currently building Pixel Zero with my wife Jen, and helping out as programmer for the Penn Center for Learning Analytics under project Ripple - [RPPL
-Research Infrastructure for Professional Development](https://annenberg.brown.edu/rppl/about).
+I am currently building [Pixel Zero Digital Solutions](www.pixelzero.solutions) with my wife [Jen](https://scholar.google.com/citations?user=2RUD6psAAAAJ&hl=en&oi=ao), and helping out as programmer for the Penn Center for Learning Analytics under the [RPPL
+Research Infrastructure for Professional Development](https://annenberg.brown.edu/rppl/about) project.
 
 I am a part-time instructor in the [Department of Information Systems and Computer Science](https://www.facebook.com/admudiscs/) (DISCS) of the Ateneo de Manila University and have done research under the [Ateneo Laboratory for the Learning Sciences](https://alls.ateneo.edu/) (ALLS) headed by [Dr. Maria Mercedes T. Rodrigo](https://scholar.google.com/citations?user=meAacBIAAAAJ&hl=en)
 
