@@ -11,6 +11,7 @@ All papers are publicly available in [Google Scholar](https://scholar.google.com
 
 ## Journal Papers
 
+*       Tablatin, C. L. S., __Casano, J. D.__, & Rodrigo, M. M. T. (2023, March). Using Minecraft to cultivate student interest in STEM. In Frontiers in Education (Vol. 8, p. 1127984). Frontiers Media SA. [📝](https://www.frontiersin.org/articles/10.3389/feduc.2023.1127984/full)
 *       __Casano, J. D.__, Agapito, J. L., Moreno, A. S., & Rodrigo, M. M. T. (2022). INF-Based Tracking and Characterization of Museum Visitor Paths and Behaviors Using Bluetooth Low Energy Beacons. _ACM Journal on Computing and Cultural Heritage (JOCCH)_, 15(2), 1-22. [📝](https://dl.acm.org/doi/abs/10.1145/3474830)
 
 ---
