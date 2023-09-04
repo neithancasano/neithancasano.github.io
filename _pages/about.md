@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently building [Pixel Zero Digital Solutions](www.pixelzero.solutions) with my wife [Jen](https://scholar.google.com/citations?user=2RUD6psAAAAJ&hl=en&oi=ao), and helping out as programmer for the Penn Center for Learning Analytics under the [RPPL
+I am currently building [Pixel Zero Digital Solutions](https://pixelzero.solutions) with my wife [Jen](https://scholar.google.com/citations?user=2RUD6psAAAAJ&hl=en&oi=ao), and helping out as programmer for the Penn Center for Learning Analytics under the [RPPL
 Research Infrastructure for Professional Development](https://annenberg.brown.edu/rppl/about) project.
 
 I am a part-time instructor in the [Department of Information Systems and Computer Science](https://www.facebook.com/admudiscs/) (DISCS) of the Ateneo de Manila University and have done research under the [Ateneo Laboratory for the Learning Sciences](https://alls.ateneo.edu/) (ALLS) headed by [Dr. Maria Mercedes T. Rodrigo](https://scholar.google.com/citations?user=meAacBIAAAAJ&hl=en)
